@@ -22,7 +22,7 @@ Nessus Installation: The script assumes you have Nessus installed on your system
 
 ### Installing
 
-You're welcome to install and use my repository in any way that suits your needs. To clone the repository, simply execute the command: git clone https://github.com/emluce/nessus-backup.git
+You're welcome to install and use my repository in any way that suits your needs. To clone the repository, simply execute the command: git clone https://github.com/emluce/tenable-nessus-backup.git
 
 ### Executing program
 
