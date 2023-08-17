@@ -86,3 +86,9 @@ Contact author at eric@lucedev.com for questions and assistance.
 
 https://docs.tenable.com/nessus/Content/BackUpNessus.htm
 https://docs.tenable.com/nessus/Content/RestoreNessus.htm
+
+## Licenses
+
+MIT License
+
+Copyright (c) 2023 Eric Luce
