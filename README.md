@@ -81,3 +81,8 @@ Performs backup configuration for Nessus environment.
 Provides informative logging for tracking and troubleshooting.
 Supports running the script within a virtual environment.
 Contact author at eric@lucedev.com for questions and assistance.
+
+## Resources
+
+https://docs.tenable.com/nessus/Content/BackUpNessus.htm
+https://docs.tenable.com/nessus/Content/RestoreNessus.htm
