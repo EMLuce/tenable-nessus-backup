@@ -26,7 +26,7 @@ You're welcome to install and use my repository in any way that suits your needs
 
 ### Executing program
 
-Once you have the script installed on your device you can simply execute the
+Once the package is installed you can execute the main.py file using administrative privileges in the command line interface.
 
 ## Help
 
@@ -60,7 +60,7 @@ API Changes or Unavailability:
     Issue: The script relies on an external API for Python version validation, which could change or become temporarily unavailable.
     Solution: If you encounter errors related to the API, check its status or update the script to use an alternative source for Python version information.
 
-If you need help, have questions, or encounter any issues beyond the common problems listed here, feel free to contact me personally at eric@lucedev.com.
+If you need help, have questions, or encounter any issues beyond the common problems listed here, feel free to contact me personally at contact@lucedev.com.
 
 ## Authors
 
