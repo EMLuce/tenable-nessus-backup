@@ -12,7 +12,7 @@ A straightforward script designed to automate the process of backing up your Ten
 
 Operating System: The script is primarily intended for Windows operating systems. It has been tested and verified to work on Windows 10.
 
-Python: Ensure you have Python 3.x installed on your system. You can download the latest version of Python from the official website: https://www.python.org/downloads/
+Python: Ensure you have the most current version of Python installed on your system. You can download the latest version of Python from the official website: https://www.python.org/downloads/
 
 Python Packages: The script requires the requests library to retrieve data from an external API. You can install this library using the following command: pip install requests
 
