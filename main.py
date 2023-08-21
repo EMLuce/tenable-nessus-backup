@@ -38,7 +38,7 @@ def backup():
     # Update this path if Nessus is installed in a different location on your machine.
     path = r"C:\Program Files\Tenable\Nessus"
     
-    #This try/except is used to catch where or not the path provided above exists on your machine.
+    #This try/except is used to catch whether or not the path provided above exists on your machine.
     try:
         os.chdir(path)
     except OSError:
